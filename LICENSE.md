@@ -12,5 +12,6 @@ Any changes made to this product using the original source code are intended to 
 
 this is a project of love to the TTRPG community and my love to fantasy. it is my dream and joy to share this with all of you.
 
-**You are allow to modify my custom rules for your personal of public use as long as it is for free (while not mandatory would be nice if you share them also for free with the general public).**
+**You are allow to modify my custom rules for your personal of public use as long as it is for free (while not mandatory would be nice if you share them also for free with the general public).this applies to the changes i made to the original
+system ,while the original project in this case OPEN LEGEND RPG is an open source project i can not state if they will agree to this aspect**
 
