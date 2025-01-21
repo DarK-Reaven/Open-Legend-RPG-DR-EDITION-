@@ -20,8 +20,7 @@ Q&A:
 
 - *Can you use this fork on your projects?*
 -
-- Absolutely, while i can not confirm on any form that Open Legend RPG may keep the open source licence they use, i can confirm that my ruleset is intented to remain
-- open source and free of charge permanently. i have no intention to lock this system ruleset fork on any paywall (Read the license file).
+- Absolutely, while i can not confirm on any form that Open Legend RPG may keep the open source licence they use, i can confirm that my ruleset is intented to remain open source and free of charge permanently. i have no intention to lock this system ruleset fork on any paywall (Read the license file).
 
 -*So is everything free or open Source?*
 
