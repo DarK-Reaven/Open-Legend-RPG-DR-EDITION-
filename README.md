@@ -1,3 +1,7 @@
+
+OPEN LEGEND DR EDITION:
+
+
 "Your tales is about to begin.....
 who are you?, what is your purpose here in the land of vanity and pride?
 
