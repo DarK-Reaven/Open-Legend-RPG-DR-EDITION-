@@ -19,7 +19,7 @@ Q&A:
 
 - *What is the porpuse of this project?*
 - 
-- To tell the story i created with full an d total control of it, without licencing issues in case i wanted to properly share with the community.
+- To tell the story i created with full total control of it, without licencing issues in case i wanted to properly share with the community.
 
 - *Can you use this fork on your projects?*
 -
