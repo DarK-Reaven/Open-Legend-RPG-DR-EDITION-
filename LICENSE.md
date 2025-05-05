@@ -6,7 +6,7 @@ Seventh Sphere Entertainment and Open Legend RPG and their respective logos are 
 
 
 
-Disclaimer:
+IMPORTANT DISCLAIMER:
 
 Any changes made to this product using the original source code are intended to be made available to the general public free of charge. No individual or group is permitted to distribute this modification in exchange for any mandatory fee. 
 
